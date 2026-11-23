@@ -1,0 +1,8 @@
+{
+  "name": "Loombook — AI Storybook Studio",
+  "description": "AI storybook generator with Reader-Signal Autopilot: passive reader telemetry, engagement scoring, trouble-threshold triggers, and real-time narrative steering powered by Supabase and Google Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
